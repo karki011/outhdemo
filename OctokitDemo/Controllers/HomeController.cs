@@ -11,8 +11,8 @@ namespace OctokitDemo.Controllers
     {
         // TODO: Replace the following values with the values from your application registration. Register an
         // application at https://github.com/settings/applications/new to get these values.
-        const string clientId = "f1a2bc695339cea40c79";
-        private const string clientSecret = "88395484cd7f06e11ee23588666b8abddd4d3d61";
+        const string clientId = "";
+        private const string clientSecret = "";
         readonly GitHubClient client =
             new GitHubClient(new ProductHeaderValue("Haack-GitHub-Oauth-Demo"));
 

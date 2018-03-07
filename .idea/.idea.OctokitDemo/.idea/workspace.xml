@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8ce9d8bf-0aea-434f-a835-42c952e0bf07" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/OctokitDemo/Controllers/HomeController.cs" afterPath="$PROJECT_DIR$/OctokitDemo/Controllers/HomeController.cs" />
+      <change beforePath="$PROJECT_DIR$/OctokitDemo/bin/OctokitDemo.dll" afterPath="$PROJECT_DIR$/OctokitDemo/bin/OctokitDemo.dll" />
+      <change beforePath="$PROJECT_DIR$/OctokitDemo/bin/OctokitDemo.pdb" afterPath="$PROJECT_DIR$/OctokitDemo/bin/OctokitDemo.pdb" />
+      <change beforePath="$PROJECT_DIR$/OctokitDemo/obj/Debug/OctokitDemo.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/OctokitDemo/obj/Debug/OctokitDemo.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/OctokitDemo/obj/Debug/OctokitDemo.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/OctokitDemo/obj/Debug/OctokitDemo.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/OctokitDemo/obj/Debug/OctokitDemo.csprojResolveAssemblyReference.cache" afterPath="$PROJECT_DIR$/OctokitDemo/obj/Debug/OctokitDemo.csprojResolveAssemblyReference.cache" />
+      <change beforePath="$PROJECT_DIR$/OctokitDemo/obj/Debug/OctokitDemo.dll" afterPath="$PROJECT_DIR$/OctokitDemo/obj/Debug/OctokitDemo.dll" />
+      <change beforePath="$PROJECT_DIR$/OctokitDemo/obj/Debug/OctokitDemo.pdb" afterPath="$PROJECT_DIR$/OctokitDemo/obj/Debug/OctokitDemo.pdb" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/OctokitDemo/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+              <folding>
+                <marker date="1520448344084" expanded="false" signature="6:133" ph="..." />
+                <marker date="1520448344084" expanded="true" signature="168:3437" ph="{...}" />
+                <marker date="1520448344084" expanded="true" signature="215:3435" ph="{...}" />
+                <marker date="1520448344084" expanded="true" signature="230:423" ph="/* TODO: Replace the following values with the values from your application registration. Register an ... */" />
+                <marker date="1520448344084" expanded="true" signature="637:775" ph="/* This URL uses the GitHub API to get a list of the current user's ... */" />
+                <marker date="1520448344084" expanded="true" signature="823:1940" ph="{...}" />
+                <marker date="1520448344084" expanded="true" signature="933:1196" ph="{...}" />
+                <marker date="1520448344084" expanded="true" signature="964:1114" ph="/* This allows the client to make requests to the GitHub API on the user's behalf ... */" />
+                <marker date="1520448344084" expanded="true" signature="1212:1569" ph="{...}" />
+                <marker date="1520448344084" expanded="true" signature="1243:1377" ph="/* The following requests retrieves all of the user's repositories and ... */" />
+                <marker date="1520448344084" expanded="true" signature="1612:1930" ph="{...}" />
+                <marker date="1520448344084" expanded="true" signature="1643:1832" ph="/* Either the accessToken is null or it's invalid. This redirects ... */" />
+                <marker date="1520448344084" expanded="true" signature="2110:2664" ph="{...}" />
+                <marker date="1520448344084" expanded="true" signature="2165:2607" ph="{...}" />
+                <marker date="1520448344084" expanded="true" signature="2707:3260" ph="{...}" />
+                <marker date="1520448344084" expanded="true" signature="2951:3130" ph="{...}" />
+                <marker date="1520448344084" expanded="true" signature="3310:3429" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/OctokitDemo/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/OctokitDemo/Controllers/HomeController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="76" />
+    <option name="y" value="32" />
+    <option name="width" value="1400" />
+    <option name="height" value="907" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OctokitDemo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OctokitDemo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="OctokitDemo" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OctokitDemo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="OctokitDemo" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="App_Start" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="OctokitDemo (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="OctokitDemo" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="/Library/Frameworks/Mono.framework/Versions/Current/lib/mono/4.5/xsp4.exe" />
+      <option name="PROGRAM_PARAMETERS" value="--address=127.0.0.1 --port=5000" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OctokitDemo" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs />
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/OctokitDemo/OctokitDemo.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Web" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <browser url="http://127.0.0.1:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8ce9d8bf-0aea-434f-a835-42c952e0bf07" name="Default" comment="" />
+      <created>1520448154978</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1520448154978</updated>
+      <workItem from="1520448157933" duration="189000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="189000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="76" y="32" width="1400" height="907" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934132" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OctokitDemo/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="45" lean-forward="false" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+          <folding>
+            <marker date="1520448344084" expanded="false" signature="6:133" ph="..." />
+            <marker date="1520448344084" expanded="true" signature="168:3437" ph="{...}" />
+            <marker date="1520448344084" expanded="true" signature="215:3435" ph="{...}" />
+            <marker date="1520448344084" expanded="true" signature="230:423" ph="/* TODO: Replace the following values with the values from your application registration. Register an ... */" />
+            <marker date="1520448344084" expanded="true" signature="637:775" ph="/* This URL uses the GitHub API to get a list of the current user's ... */" />
+            <marker date="1520448344084" expanded="true" signature="823:1940" ph="{...}" />
+            <marker date="1520448344084" expanded="true" signature="933:1196" ph="{...}" />
+            <marker date="1520448344084" expanded="true" signature="964:1114" ph="/* This allows the client to make requests to the GitHub API on the user's behalf ... */" />
+            <marker date="1520448344084" expanded="true" signature="1212:1569" ph="{...}" />
+            <marker date="1520448344084" expanded="true" signature="1243:1377" ph="/* The following requests retrieves all of the user's repositories and ... */" />
+            <marker date="1520448344084" expanded="true" signature="1612:1930" ph="{...}" />
+            <marker date="1520448344084" expanded="true" signature="1643:1832" ph="/* Either the accessToken is null or it's invalid. This redirects ... */" />
+            <marker date="1520448344084" expanded="true" signature="2110:2664" ph="{...}" />
+            <marker date="1520448344084" expanded="true" signature="2165:2607" ph="{...}" />
+            <marker date="1520448344084" expanded="true" signature="2707:3260" ph="{...}" />
+            <marker date="1520448344084" expanded="true" signature="2951:3130" ph="{...}" />
+            <marker date="1520448344084" expanded="true" signature="3310:3429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
